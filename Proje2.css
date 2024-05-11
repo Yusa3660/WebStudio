@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: greenyellow;
+    padding: 20px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    padding-left: 250px;
+    font-family;
+}
+
+.list a {
+    margin-right: 50px;
+    text-decoration: none;
+    color: chocolate;
+    font-size: 20px;
+}
+
+#özel {
+color:red;
+}
+
+
+
+.section1{
+    background-color: rgb(44, 44, 71);
+    width:100%;
+    height:400px;
+}
+
+h1{
+    color:white;
+    padding-top: 200px;
+    padding-left:38px;
+ text-align: center;
+ font-size:35px;
+}
+
+.img{
+    text-align: center;    
+    font-size: xx-large;
+    color:orangered
+}
+
+
+body{
+    background-color:white
+    (206, 205, 205);
+}
+
+.box{
+  margin-left:40px ;
+ border: 3px solid;
+ padding:6px;
+  border-color:black;
+  border-radius:1rem;
+  color: rgb(0, 0, 0);
+}
+.container{
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+    background-color: white;
+}
+
+.ayrı{
+ text-align: center;
+ background-color: white;
+}
+
+
+.kol{
+    font-size:40px;
+    margin-bottom: 30px;
+    color: black;
+}
+.image{
+    margin-left:55px ;
+}
+.img32{
+background-color: white;
+text-align: center;
+margin-top:1px ;
+}
+
+.H1B{
+    color:black ;
+}
+
+.footer{
+    background-color: rgb(0, 0,0);
+    width: 100%;
+    height: 170px;
+}
+h3{
+    color: blue;
+text-align: center;
+font-size: x-large;
+}
+.pclass{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top:50px;
+}
+
+

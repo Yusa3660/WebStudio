@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav {
+    background-color: greenyellow;
+    padding: 20px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+}
+.list a {
+    margin-right: 50px;
+    text-decoration: none;
+    color: chocolate;
+    font-size: 20px;
+}
+#özel {
+    color:red;
+    }
+
+ .list {
+     list-style: none;
+      display: flex;
+      padding-left: 250px;
+      font-family;
+    }
+    .container{
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
